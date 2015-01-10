@@ -1,1 +1,4 @@
-*.smth
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
